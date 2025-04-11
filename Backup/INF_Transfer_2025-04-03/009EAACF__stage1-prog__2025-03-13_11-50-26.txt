@@ -1,0 +1,13 @@
+time1: 2025-03-13 11:50:20
+NANOFOX DAILY V7 0x23
+PAC: 8C0A313D8768CF34
+ID: 009EAACF
+HardResets: 0
+LastError: 0
+IsActivated: no
+Voltage: 3322
+Fuses: 18 01 f7 04 -> OK
+time2: 2025-03-13 11:50:26
+product: INF
+series: INF-K&B-25-4500-01
+status: prod_stage1.1

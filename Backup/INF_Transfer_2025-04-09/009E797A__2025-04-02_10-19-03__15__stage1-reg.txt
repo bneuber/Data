@@ -1,0 +1,4 @@
+product: INF
+deviceID: 009E797A
+status: prod_stage1.2
+time1: 2025-04-02_10-19-03

@@ -1,0 +1,4 @@
+deviceID: 009EB3BD
+status: prod_stage3.2
+HU: H0100019
+time: 2025-03-13 07:17:19

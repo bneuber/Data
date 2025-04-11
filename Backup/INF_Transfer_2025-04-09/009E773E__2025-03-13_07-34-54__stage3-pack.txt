@@ -1,0 +1,4 @@
+deviceID: 009E773E
+status: prod_stage3.2
+HU: H0100025
+time: 2025-03-13 07:34:54

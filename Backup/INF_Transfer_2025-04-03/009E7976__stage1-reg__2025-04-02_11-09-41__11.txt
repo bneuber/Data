@@ -1,0 +1,4 @@
+product: INF
+deviceID: 009E7976
+status: prod_stage1.2
+time1: 2025-04-02_11-09-41

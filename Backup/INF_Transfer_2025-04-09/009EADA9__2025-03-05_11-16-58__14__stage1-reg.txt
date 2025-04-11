@@ -1,0 +1,3 @@
+deviceID: 009EADA9
+status: prod_stage1.2
+time1: 2025-03-05_11-16-58

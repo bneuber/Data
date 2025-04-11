@@ -1,0 +1,4 @@
+deviceID: 009E6C02
+status: prod_stage3.2
+HU: H0100029
+time: 2025-03-13 14:19:31

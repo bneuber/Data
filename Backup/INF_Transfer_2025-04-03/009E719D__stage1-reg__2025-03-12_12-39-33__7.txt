@@ -1,0 +1,3 @@
+deviceID: 009E719D
+status: prod_stage1.2
+time1: 2025-03-12_12-39-33

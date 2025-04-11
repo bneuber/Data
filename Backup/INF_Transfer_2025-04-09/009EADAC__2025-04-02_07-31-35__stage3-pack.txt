@@ -1,0 +1,5 @@
+product: INF
+deviceID: 009EADAC
+status: prod_stage3.2
+HU: H0100034
+time: 2025-04-02 07:31:35
