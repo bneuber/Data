@@ -1,0 +1,5 @@
+product: INF
+deviceID: 009E7976
+status: prod_stage3.2
+HU: H0100048
+time: 2025-04-08 07:33:32

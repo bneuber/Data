@@ -1,0 +1,4 @@
+deviceID: 009EA85C
+status: prod_stage3.2
+HU: H0100011
+time: 2025-03-06 07:35:40

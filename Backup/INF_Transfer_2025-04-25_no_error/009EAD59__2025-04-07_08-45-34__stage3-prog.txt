@@ -1,0 +1,16 @@
+time1: 2025-04-07 08:45:30
+NANOFOX 30 DAYS V7 0x10
+PAC: 1B83779C52D4868C
+ID: 009EAD59
+HardResets: 5
+LastError: 0
+IsActivated: no
+Voltage: 3293
+Fuses: 18 01 f7 04 -> OK
+
+time2: 2025-04-07 08:45:34
+product: INF
+seriesID: INF-K&B-25-4500-01
+status: prod_stage3.1
+batchID: S25306
+functionaltest: 1

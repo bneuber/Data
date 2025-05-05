@@ -1,0 +1,4 @@
+deviceID: 009E7D4A
+status: prod_stage3.2
+HU: H0100024
+time: 2025-03-13 07:32:18

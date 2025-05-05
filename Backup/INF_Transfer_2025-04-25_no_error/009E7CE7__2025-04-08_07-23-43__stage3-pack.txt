@@ -1,0 +1,5 @@
+product: INF
+deviceID: 009E7CE7
+status: prod_stage3.2
+HU: H0100045
+time: 2025-04-08 07:23:43

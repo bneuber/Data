@@ -1,0 +1,4 @@
+product: INF
+deviceID: 0120AD74
+status: prod_stage1.2
+time1: 2025-04-04_10-24-54
